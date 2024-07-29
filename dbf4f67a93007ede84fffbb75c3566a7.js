@@ -1,1 +1,145 @@
-function _0x320b(_0x2d53c2,_0x227a7a){const _0x30f592=_0x30f5();return _0x320b=function(_0x320b32,_0x402a64){_0x320b32=_0x320b32-0x14d;let _0x47e9e7=_0x30f592[_0x320b32];return _0x47e9e7;},_0x320b(_0x2d53c2,_0x227a7a);}const _0x1200c3=_0x320b;(function(_0x134171,_0x55c32a){const _0x378615=_0x320b,_0x4c6e10=_0x134171();while(!![]){try{const _0x353816=parseInt(_0x378615(0x169))/0x1+-parseInt(_0x378615(0x15c))/0x2*(-parseInt(_0x378615(0x17b))/0x3)+-parseInt(_0x378615(0x164))/0x4+parseInt(_0x378615(0x15b))/0x5+parseInt(_0x378615(0x171))/0x6*(parseInt(_0x378615(0x16a))/0x7)+parseInt(_0x378615(0x197))/0x8+-parseInt(_0x378615(0x159))/0x9*(parseInt(_0x378615(0x151))/0xa);if(_0x353816===_0x55c32a)break;else _0x4c6e10['push'](_0x4c6e10['shift']());}catch(_0x2bae26){_0x4c6e10['push'](_0x4c6e10['shift']());}}}(_0x30f5,0x535b5),jQuery(document)[_0x1200c3(0x16f)](function(_0x202dcf){const _0x8a4402=_0x1200c3;function _0x3c4aa3(){const _0x40ab55=_0x320b;document[_0x40ab55(0x184)](_0x40ab55(0x14f))[_0x40ab55(0x18b)]['display']=_0x40ab55(0x18a);}document[_0x8a4402(0x184)](_0x8a4402(0x16b))[_0x8a4402(0x16d)](_0x8a4402(0x15d),function(){const _0x40f77a=_0x8a4402;document[_0x40f77a(0x184)]('loading')[_0x40f77a(0x18b)][_0x40f77a(0x195)]='initial';var _0x3d70ac=document[_0x40f77a(0x184)](_0x40f77a(0x155))[_0x40f77a(0x175)],_0x241aa2=document[_0x40f77a(0x184)]('apiKey')[_0x40f77a(0x175)];_0x202dcf[_0x40f77a(0x17f)]({'url':_0x40f77a(0x17d),'type':_0x40f77a(0x185),'contentType':_0x40f77a(0x18f),'data':JSON[_0x40f77a(0x177)]({'api_key':_0x241aa2}),'success':function(_0x14ec96){const _0x3022bb=_0x40f77a;_0x14ec96[_0x3022bb(0x157)]==='valid'?_0x3b8950(_0x3d70ac,_0x241aa2):(alert(_0x3022bb(0x162)),document[_0x3022bb(0x184)](_0x3022bb(0x14f))['style']['display']=_0x3022bb(0x173));},'error':function(_0x5e4513,_0x4175e4,_0x5996da){const _0x5e1f9d=_0x40f77a;alert(_0x5e1f9d(0x16e)+_0x5996da+'.\x20Please\x20try\x20again\x20later.'),document[_0x5e1f9d(0x184)](_0x5e1f9d(0x14f))[_0x5e1f9d(0x18b)][_0x5e1f9d(0x195)]=_0x5e1f9d(0x173);}});});function _0x3b8950(_0x3acc6f,_0x19d077){const _0x3066f0=_0x8a4402;_0x202dcf[_0x3066f0(0x17f)]({'url':_0x3066f0(0x168)+_0x3acc6f,'type':_0x3066f0(0x182),'async':!![],'crossDomain':!![],'dataType':'json','jsonp':!![],'cache':!![],'success':function(_0x2b99b5){_0x40ecc6(_0x2b99b5,_0x3acc6f);},'error':function(_0x1d5971,_0x574bbd,_0x2db6a1){const _0x3a3309=_0x3066f0;alert(_0x3a3309(0x16e)+_0x2db6a1+_0x3a3309(0x14e)),document[_0x3a3309(0x184)]('loading')[_0x3a3309(0x18b)][_0x3a3309(0x195)]=_0x3a3309(0x173);}});}function _0x40ecc6(_0x1ad192,_0x468bcf){const _0x276768=_0x8a4402;document['getElementById'](_0x276768(0x174))[_0x276768(0x18b)][_0x276768(0x195)]='block',document['getElementById'](_0x276768(0x14f))[_0x276768(0x18b)]['display']='none';if(_0x1ad192[_0x276768(0x191)]){const _0x993bd0=_0x1ad192[_0x276768(0x191)];_0x3a79be('thumb',_0x993bd0[_0x276768(0x16c)]?_0x276768(0x190)+_0x993bd0[_0x276768(0x16c)]+_0x276768(0x188):_0x276768(0x166)),_0x3a79be('title',_0x993bd0[_0x276768(0x167)]?_0x276768(0x18c)+_0x993bd0[_0x276768(0x167)][_0x276768(0x152)](/\+/g,'\x20')+_0x276768(0x153):''),document['title']=_0x993bd0[_0x276768(0x167)]?_0x276768(0x17e)+_0x993bd0[_0x276768(0x167)]['replace'](/\+/g,'\x20')+_0x276768(0x196):_0x276768(0x160),_0x3a79be(_0x276768(0x17a),_0x993bd0[_0x276768(0x17a)]?_0x276768(0x181)+_0x993bd0[_0x276768(0x17a)]+_0x276768(0x150):''),_0x3a79be(_0x276768(0x180),_0x993bd0[_0x276768(0x176)]?_0x276768(0x170)+_0x993bd0[_0x276768(0x176)]+'</h5>':''),_0x3a79be('duration',_0x993bd0[_0x276768(0x158)]?_0x276768(0x170)+_0x993bd0['size']+_0x276768(0x18d):''),_0x224ef7(_0x1ad192);}else alert(_0x276768(0x179)),document[_0x276768(0x184)](_0x276768(0x14f))[_0x276768(0x18b)]['display']=_0x276768(0x173);}function _0x3a79be(_0x231521,_0x3adff6){const _0x3fe1eb=_0x8a4402;document[_0x3fe1eb(0x184)](_0x231521)[_0x3fe1eb(0x187)]=_0x3adff6;}function _0x224ef7(_0x12249d){const _0x545ba2=_0x8a4402,_0x5835ec=document[_0x545ba2(0x184)](_0x545ba2(0x15a));_0x5835ec[_0x545ba2(0x187)]='';if(_0x12249d[_0x545ba2(0x191)]){const _0x2c1060=_0x12249d['data'][_0x545ba2(0x193)];for(let _0x14d102=0x0;_0x14d102<_0x2c1060[_0x545ba2(0x18e)];_0x14d102++){if(_0x2c1060[_0x14d102]&&_0x2c1060[_0x14d102][_0x545ba2(0x176)]){const _0x28abcb=_0x2c1060[_0x14d102][_0x545ba2(0x176)],_0x340d8d=_0x2d5b3f(_0x57ce03(_0x545ba2(0x15f),_0x28abcb)),_0x3f981d=_0x2c1060[_0x14d102][_0x545ba2(0x163)],_0x521a34=_0x2c1060[_0x14d102][_0x545ba2(0x186)];_0x5835ec['innerHTML']+=_0x545ba2(0x194)+_0x28abcb+_0x545ba2(0x14d)+_0x340d8d+'\x27>'+_0x521a34+'\x20\x20'+_0x57ce03('itag',_0x28abcb)+('\x20'+_0x3f981d+_0x545ba2(0x17c));}}}else alert(_0x545ba2(0x183)),document[_0x545ba2(0x184)]('loading')[_0x545ba2(0x18b)]['display']=_0x545ba2(0x173);_0x5835ec['innerHTML']===''&&(alert(_0x545ba2(0x15e)),document[_0x545ba2(0x184)](_0x545ba2(0x174))[_0x545ba2(0x18b)][_0x545ba2(0x195)]=_0x545ba2(0x173),location[_0x545ba2(0x172)]=_0x545ba2(0x178)+inputUrl);}function _0x2d5b3f(_0x50782a){const _0xc069cc=_0x8a4402,_0x23046f=['17','18','22'],_0x138b2f=['139',_0xc069cc(0x165),'141',_0xc069cc(0x192),_0xc069cc(0x198),'251',_0xc069cc(0x161),'600'];if(_0x23046f[_0xc069cc(0x154)](_0x50782a))return'green';else return _0x138b2f[_0xc069cc(0x154)](_0x50782a)?'#3800ff':_0xc069cc(0x189);}function _0x57ce03(_0x2434ef,_0x20f33c){const _0x1a0f95=_0x8a4402;_0x2434ef=_0x2434ef['replace'](/[\[\]]/g,'\x5c$&');const _0x3c3af9=new RegExp('[?&]'+_0x2434ef+'(=([^&#]*)|&|#|$)'),_0x23eaa8=_0x3c3af9[_0x1a0f95(0x156)](_0x20f33c);if(!_0x23eaa8)return'.';if(!_0x23eaa8[0x2])return'';return decodeURIComponent(_0x23eaa8[0x2][_0x1a0f95(0x152)](/\+/g,'\x20'));}}));function _0x30f5(){const _0x50c610=['replace','</h1>','includes','inputUrl','exec','status','size','306jTBOwI','download','852440Gdnslj','14MCLnzB','click','Server\x20Down\x20due\x20to\x20Too\x20Many\x20Requests.\x20Please\x20contact\x20us\x20on\x20Social\x20Media\x20@TheOfficialVKr','itag','Download\x20VKrDownloader','599','Invalid\x20or\x20expired\x20API\x20key.','format_id','2707892guyyXW','140','<img\x20src=\x27logo.png\x27\x20width=\x27300px\x27>','title','https://vkrdownloader.vercel.app/server?vkr=','673036fWbkuf','70gHhXwk','downloadBtn','thumbnail','addEventListener','Error:\x20','ready','<h5>','232170zwQVgA','href','none','container','value','url','stringify','https://vkrdownloader.vercel.app/download.php?vkr=','Issue:\x20Unable\x20to\x20get\x20download\x20link.\x20Please\x20check\x20the\x20URL\x20and\x20contact\x20us\x20on\x20Social\x20Media\x20@TheOfficialVKr','description','161532xtskPt','</button></a>','http://instavideodownloader.pythonanywhere.com/validate_key','Download\x20','ajax','uploader','<h3><details>\x20<summary>View\x20Description</summary>','GET','No\x20download\x20links\x20found\x20or\x20data\x20structure\x20is\x20incorrect.','getElementById','POST','extension','innerHTML','\x27\x20width=\x27300px\x27>','red','initial','style','<h1>','</h5>','length','application/json','<img\x20src=\x27','data','249','downloads','<a\x20href=\x27','display','\x20VKrDownloader','1652688wScwYH','250','\x27><button\x20class=\x27dlbtns\x27\x20style=\x27background:','.\x20Please\x20try\x20again\x20later.','loading','</details></h3>','233990ChMWhU'];_0x30f5=function(){return _0x50c610;};return _0x30f5();}
+jQuery(document).ready(function($) {
+    // Function to handle the "Download" button click
+    function openbox() {
+        // Display the loading section
+        document.getElementById("loading").style.display = "initial";
+    }
+
+    // Event listener for the "Download" button
+    document.getElementById("downloadBtn").addEventListener("click", function () {
+        // Display the loading section
+        document.getElementById("loading").style.display = "initial";
+
+        // Get the input URL and API key values
+        var inputUrl = document.getElementById("inputUrl").value;
+        var apiKey = document.getElementById("apiKey").value;
+
+        // Validate API key
+        $.ajax({
+            url: "http://instavideodownloader.pythonanywhere.com/validate_key", // URL for API key validation
+            type: "POST",
+            contentType: "application/json",
+            data: JSON.stringify({ api_key: apiKey }),
+            success: function(response) {
+                if (response.status === 'valid') {
+                    // Proceed with the download request
+                    handleDownload(inputUrl, apiKey);
+                } else {
+                    alert("Invalid or expired API key.");
+                    document.getElementById("loading").style.display = "none";
+                }
+            },
+            error: function(xhr, status, error) {
+                alert("Error: " + error + ". Please try again later.");
+                document.getElementById("loading").style.display = "none";
+            }
+        });
+    });
+
+    // Function to handle the download request
+    function handleDownload(inputUrl, apiKey) {
+        // AJAX request to retrieve video information
+        $.ajax({
+            url: "https://vkrdownloader.vercel.app/server?vkr=" + inputUrl,
+            type: "GET",
+            async: true,
+            crossDomain: true,
+            dataType: 'json',
+            jsonp: true,
+            cache: true,
+            success: function (data) {
+                handleSuccessResponse(data, inputUrl);
+            },
+            error: function(xhr, status, error) {
+                alert("Error: " + error + ". Please try again later.");
+                document.getElementById("loading").style.display = "none";
+            }
+        });
+    }
+
+    // Function to handle successful AJAX response
+    function handleSuccessResponse(data, inputUrl) {
+        // Display or hide elements based on the received data
+        document.getElementById("container").style.display = "block";
+        document.getElementById("loading").style.display = "none";
+
+        // Check if the data is empty
+        if (data.data) {
+            // Extract video information from the data
+            const videoData = data.data;
+            // Update HTML elements with video information
+            updateElement("thumb", videoData.thumbnail ? `<img src='${videoData.thumbnail}' width='300px'>` : "<img src='logo.png' width='300px'>");
+            // Update HTML elements with video information
+            updateElement("title", videoData.title ? `<h1>${videoData.title.replace(/\+/g, ' ')}</h1>` : "");
+            document.title = videoData.title ? `Download ${videoData.title.replace(/\+/g, ' ')} VKrDownloader` : "Download VKrDownloader";
+            updateElement("description", videoData.description ? `<h3><details> <summary>View Description</summary>${videoData.description}</details></h3>` : "");
+            updateElement("uploader", videoData.url ? `<h5>${videoData.url}</h5>` : "");
+            updateElement("duration", videoData.size ? `<h5>${videoData.size}</h5>` : "");
+
+            // Generate and display download buttons
+            generateDownloadButtons(data);
+        } else {
+            alert("Issue: Unable to get download link. Please check the URL and contact us on Social Media @TheOfficialVKr");
+            document.getElementById("loading").style.display = "none";
+        }
+    }
+
+    // Function to update HTML element content
+    function updateElement(elementId, content) {
+        document.getElementById(elementId).innerHTML = content;
+    }
+
+    // Function to generate download buttons with dynamic colors and labels
+    function generateDownloadButtons(videoData) {
+        const downloadV = document.getElementById("download");
+        downloadV.innerHTML = "";
+        if (videoData.data) {
+            const videoDataD = videoData.data.downloads;
+            for (let i = 0; i < videoDataD.length; i++) { // Ensure correct loop condition
+                if (videoDataD[i] && videoDataD[i].url) {
+                    const downloadUrl = videoDataD[i].url;
+                    const bgColor = getBackgroundColor(getParameterByName("itag", downloadUrl));
+                    const videoFrmt = videoDataD[i].format_id;
+                    const videoExt = videoDataD[i].extension;
+                    downloadV.innerHTML += `<a href='${downloadUrl}'><button class='dlbtns' style='background:${bgColor}'>${videoExt}  ` + getParameterByName("itag", downloadUrl) +` ${videoFrmt}</button></a>`;
+                }
+            }
+        } else {
+            alert("No download links found or data structure is incorrect.");
+            document.getElementById("loading").style.display = "none";
+        }
+        // If no download links found
+        if (downloadV.innerHTML === "") {
+            alert("Server Down due to Too Many Requests. Please contact us on Social Media @TheOfficialVKr");
+            document.getElementById("container").style.display = "none";
+            location.href = "https://vkrdownloader.vercel.app/download.php?vkr=" + inputUrl;
+        }
+    }
+
+    // Function to get the background color for download buttons
+    function getBackgroundColor(downloadUrlItag) {
+        // Logic to determine button color based on video information
+        const greenFormats = ["17", "18", "22"];
+        const blueFormats = ["139", "140", "141", "249", "250", "251", "599", "600"];
+
+        if (greenFormats.includes(downloadUrlItag)) {
+            return "green";
+        } else if (blueFormats.includes(downloadUrlItag)) {
+            return "#3800ff";
+        } else {
+            return "red";
+        }
+    }
+
+    // Function to get a parameter by name from a URL
+    function getParameterByName(name, url) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        const regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+        const results = regex.exec(url);
+
+        if (!results) return '.';
+        if (!results[2]) return '';
+
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+});
